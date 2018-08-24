@@ -15,46 +15,40 @@ image:
 			<th>Assignments</th>
 		</tr>
 		<small>
-
 			<tr>
 			<td>Aug 15</td>
 				<td>1. Introduction</td>
 				<td>
 					[Russell10] Chap 1 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter01.pdf">slides</a>)  and 2 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter02.pdf">slides</a>) <br>
-					[AI-edX] Introduction to AI (<a href= "https://s3-us-west-2.amazonaws.com/cs188websitecontent/lectures/sp16-cs188-lecture-1-1PP.pdf">slides</a>) (<a href= "https://edge.edx.org/courses/course-v1:BerkeleyX+CS188x-SP16+SP16/courseware/a2dc8e2add91416a8f2a64410b3bf8e0/b414886f442a41e4b5fd0408de837e53/">video</a>)<br>
+					[AI-edX] Introduction to AI (<a href= "http://ai.berkeley.edu/slides/Lecture%201%20--%20Introduction/SP14%20CS188%20Lecture%201%20--%20Introduction.pptx">slides</a>) (<a href= "https://edge.edx.org/courses/course-v1:BerkeleyX+CS188x-SP16+SP16/courseware/a2dc8e2add91416a8f2a64410b3bf8e0/b414886f442a41e4b5fd0408de837e53/">video</a>)<br>
 				</td>
 				<td>
 					[AI-edX] <a href= "https://edge.edx.org/courses/course-v1:BerkeleyX+CS188x-SP16+SP16/courseware/c78976d210314651abb740912d8279bb/5bf447e1a55f4699a6e313680f16e9df/">Math Self-Diagnostic</a><br>
 					[AI-edX] <a href= "https://edge.edx.org/courses/course-v1:BerkeleyX+CS188x-SP16+SP16/courseware/c78976d210314651abb740912d8279bb/e8c2d3dd71a84472997173f55c98a35c/">P0: Tutorial</a>
 				</td>
 			</tr>
-
 			<tr>
 				<td>Aug 22</td>
 				<td>2.1 Search</td>
 				<td>
 					[Russell10] Chap 3 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter03.pdf">slides</a>) <br>
-					[AI-edX] Agents and Search (<a href= "https://s3-us-west-2.amazonaws.com/cs188websitecontent/lectures/sp16-cs188-lecture-2-1PP.pdf">slides</a>) (<a href= "https://edge.edx.org/courses/course-v1:BerkeleyX+CS188x-SP16+SP16/courseware/a2dc8e2add91416a8f2a64410b3bf8e0/7c56230af88d467c9737344e2e76092e/">video</a>)<br>
+					[AI-edX] Agents and Search (<a href= "http://ai.berkeley.edu/slides/Lecture%202%20--%20Uninformed%20Search/SP14%20CS188%20Lecture%202%20--%20Uninformed%20Search.pptx">slides</a>) (<a href= "https://edge.edx.org/courses/course-v1:BerkeleyX+CS188x-SP16+SP16/courseware/a2dc8e2add91416a8f2a64410b3bf8e0/7c56230af88d467c9737344e2e76092e/">video</a>)<br>
 					Search methods (<a href= "https://github.com/fagonzalezo/is-2017-1/blob/master/search_methods.ipynb">Python notebook</a>)<br>
 				</td>
-				<td>
-				
+				<td>	
 				</td>
 			</tr>
-
 			<tr>
 				<td>Aug 29</td>
 				<td>2.1 Search</td>
 				<td>
 					[Russell10] Chap 3 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter03.pdf">slides</a>) <br>
-					[AI-edX] A* Search and Heuristics (<a href= "https://s3-us-west-2.amazonaws.com/cs188websitecontent/lectures/sp16-cs188-lecture-3-1PP.pdf">slides</a>) (<a href= "https://edge.edx.org/courses/course-v1:BerkeleyX+CS188x-SP16+SP16/courseware/a2dc8e2add91416a8f2a64410b3bf8e0/76f9a53b7aad47638ff968db5938d841/">video</a>)<br>
+					[AI-edX] A* Search and Heuristics (<a href= "http://ai.berkeley.edu/slides/Lecture%203%20--%20Informed%20Search/SP14%20CS188%20Lecture%203%20--%20Informed%20Search.pptx">slides</a>) (<a href= "https://edge.edx.org/courses/course-v1:BerkeleyX+CS188x-SP16+SP16/courseware/a2dc8e2add91416a8f2a64410b3bf8e0/76f9a53b7aad47638ff968db5938d841/">video</a>)<br>
 					Search methods (<a href= "https://github.com/fagonzalezo/is-2017-1/blob/master/search_methods.ipynb">Python notebook</a>)<br>
 				</td>
 				<td>
-				
 				</td>
 			</tr>
-
 			<tr>
 				<td>Sep 5</td>
 				<td>2.2 Adversarial search</td>
