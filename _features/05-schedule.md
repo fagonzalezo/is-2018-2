@@ -47,22 +47,11 @@ image:
 					Search methods (<a href= "https://github.com/fagonzalezo/is-2017-1/blob/master/search_methods.ipynb">Python notebook</a>)<br>
 				</td>
 				<td>
+				<a href= "https://github.com/fagonzalezo/is-2018-2/blob/master/assign1.pdf">Assignment 1</a>
 				</td>
 			</tr>
 			<tr>
 				<td>Sep 5</td>
-				<td>2.2 Adversarial search</td>
-				<td>
-					[Russell10] Chap 5 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter05.pdf">slides</a>) <br>
-					[AI-edX] Game Trees: Minimax (<a href= "https://s3-us-west-2.amazonaws.com/cs188websitecontent/lectures/sp16-cs188-lecture-6-1PP.pdf">slides</a>) (<a href= "https://edge.edx.org/courses/course-v1:BerkeleyX+CS188x-SP16+SP16/courseware/a2dc8e2add91416a8f2a64410b3bf8e0/8616451481ba41d4a40afcf13bc8ab1c/">video</a>)<br>
-				</td>
-				<td>
-					
-				</td>
-			</tr>
-
-			<tr>
-				<td>Sep 12</td>
 				<td>3.1 Probability
 				</td>
 				<td>
