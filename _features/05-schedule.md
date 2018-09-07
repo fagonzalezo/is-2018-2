@@ -56,7 +56,7 @@ image:
 				</td>
 				<td>
 					[Russell10] Chap 13 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter13.pdf">slides</a>)<br>
-					[AI-edX] Probability (<a href= "https://s3-us-west-2.amazonaws.com/cs188websitecontent/lectures/sp16-cs188-lecture-12-1PP.pdf">slides</a>) (<a href= "https://edge.edx.org/courses/course-v1:BerkeleyX+CS188x-SP16+SP16/courseware/af61c2eec13a48beba442a370c3bd83f/bca0c97c5e9d4913b90559168cfec0bb/">video</a>)<br>
+					[AI-edX] Probability (<a href= "http://ai.berkeley.edu/slides/Lecture%2012%20--%20Probability/SP14%20CS188%20Lecture%2012%20--%20Probability.pptx">slides</a>) (<a href= "https://edge.edx.org/courses/course-v1:BerkeleyX+CS188x-SP16+SP16/courseware/af61c2eec13a48beba442a370c3bd83f/bca0c97c5e9d4913b90559168cfec0bb/">video</a>)<br>
 				</td>
 				<td>
 				</td>
