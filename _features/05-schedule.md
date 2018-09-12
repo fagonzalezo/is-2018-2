@@ -61,35 +61,32 @@ image:
 				<td>
 				</td>
 			</tr>
-
 			<tr>
-				<td></td>
+				<td>Sep 12</td>
 				<td>
 					3.2 Probabilistic reasoning
 				</td>
 				<td>
 					[Russell10] Chap 14 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter14.pdf">slides</a>) <br>
-					[AI-edX] Bayes' Nets: Representation (<a href= "https://s3-us-west-2.amazonaws.com/cs188websitecontent/lectures/sp16-cs188-lecture-13-1PP.pdf">slides</a>) (<a href= "https://edge.edx.org/courses/course-v1:BerkeleyX+CS188x-SP16+SP16/courseware/af61c2eec13a48beba442a370c3bd83f/eeb3157684824aedbd0abf470c767176/">video</a>)<br>
+					[AI-edX] Bayes' Nets: Representation (<a href= "http://ai.berkeley.edu/slides/Lecture%2016%20--%20Bayes%20Nets%20I%20Representation/SP14%20CS188%20Lecture%2016%20--%20Bayes%20Nets.pptx">slides</a>) (<a href= "https://edge.edx.org/courses/course-v1:BerkeleyX+CS188x-SP16+SP16/courseware/af61c2eec13a48beba442a370c3bd83f/eeb3157684824aedbd0abf470c767176/">video</a>)<br>
+					[AI-edX] Bayes' Nets: Inference (<a href= "http://ai.berkeley.edu/slides/Lecture%2018%20--%20Bayes%20Nets%20III%20Inference/SP14%20cs188%20Lecture%2018%20--%20Bayes%20Nets%20III%20Inference.pptx">slides</a>) (<a href= "https://edge.edx.org/courses/course-v1:BerkeleyX+CS188x-SP16+SP16/courseware/af61c2eec13a48beba442a370c3bd83f/099ecfc0a4c447e8a89f77e226c28232/">video</a>)<br>
 				</td>
 				<td>
 				</td>
 			</tr>
-
 			<tr>
-				<td></td>
+				<td>Sep 19</td>
 				<td>
 					3.2 Probabilistic reasoning
 				</td>
 				<td>
 					[Russell10] Chap 14 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter14.pdf">slides</a>) <br>
-					[AI-edX] Bayes' Nets: Inference (<a href= "http://cs188websitecontent.s3.amazonaws.com/lectures/fa13-cs188-lecture-14-1PP.pdf">slides</a>) (<a href= "https://edge.edx.org/courses/course-v1:BerkeleyX+CS188x-SP16+SP16/courseware/af61c2eec13a48beba442a370c3bd83f/099ecfc0a4c447e8a89f77e226c28232/">video</a>)<br>
-					[AI-edX]Bayes' Nets: Sampling (<a href= "https://s3-us-west-2.amazonaws.com/cs188websitecontent/lectures/sp16-cs188-lecture-15-1PP.pdf">slides</a>) (<a href= "https://edge.edx.org/courses/course-v1:BerkeleyX+CS188x-SP16+SP16/courseware/af61c2eec13a48beba442a370c3bd83f/0a695682c2c347918416931f1234ee60/">video</a>)<br>
+					[AI-edX]Bayes' Nets: Sampling (<a href= "http://ai.berkeley.edu/slides/Lecture%2019%20--%20Bayes%20Net%20IV%20Sampling/SP14%20CS188%20Lecture%2019%20--%20Bayes%20Nets%20IV%20Sampling.pptx">slides</a>) (<a href= "https://edge.edx.org/courses/course-v1:BerkeleyX+CS188x-SP16+SP16/courseware/af61c2eec13a48beba442a370c3bd83f/0a695682c2c347918416931f1234ee60/">video</a>)<br>
 					[Alp10] Chap 16 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap16-v1-0.pdf">slides</a>)<br>
 				</td>
 				<td>
 				</td>
 			</tr>
-
 			<tr>
 				<td></td>
 				<td>
