@@ -51,7 +51,7 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td>Sep 5</td>
+				<td>Sep 5-12</td>
 				<td>3.1 Probability
 				</td>
 				<td>
@@ -62,7 +62,7 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td>Sep 12</td>
+				<td>Sep 19-26</td>
 				<td>
 					3.2 Probabilistic reasoning
 				</td>
@@ -75,7 +75,7 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td>Sep 19</td>
+				<td>Oct 3</td>
 				<td>
 					3.2 Probabilistic reasoning
 				</td>
