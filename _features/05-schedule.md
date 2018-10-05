@@ -88,18 +88,17 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td></td>
+				<td>Oct 3-10</td>
 				<td>
 					3.3 Hidden Markov models
 				</td>
 				<td>
 					[Russell10] Chap 15 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter15.pdf">slides</a>) <br>
-					[AI-edX] HMMs(<a href= "https://s3-us-west-2.amazonaws.com/cs188websitecontent/lectures/sp16-cs188-lecture-18-1PP.pdf">slides</a>) (<a href= "https://edge.edx.org/courses/course-v1:BerkeleyX+CS188x-SP16+SP16/courseware/af61c2eec13a48beba442a370c3bd83f/a35c9cc4ae394634b608525e18e9e69b/">video</a>)<br>
-					[AI-edX] HMM Filtering(<a href= "https://s3-us-west-2.amazonaws.com/cs188websitecontent/lectures/sp16-cs188-lecture-19-1PP.pdf">slides</a>) (<a href= "https://edge.edx.org/courses/course-v1:BerkeleyX+CS188x-SP16+SP16/courseware/af61c2eec13a48beba442a370c3bd83f/a35c9cc4ae394634b608525e18e9e69b/">video</a>)<br>
+					[AI-edX] Markov Models (<a href= "http://ai.berkeley.edu/slides/Lecture%2013%20--%20Markov%20Models/SP14%20CS188%20Lecture%2013%20--%20Markov%20Models.pptx">slides</a>) and HMMs (<a href= "http://ai.berkeley.edu/slides/Lecture%2014%20--%20HMMs/SP14%20CS188%20Lecture%2014%20--%20Hidden%20Markov%20Models.pptx">slides</a>) (<a href= "https://edge.edx.org/courses/course-v1:BerkeleyX+CS188x-SP16+SP16/courseware/af61c2eec13a48beba442a370c3bd83f/a35c9cc4ae394634b608525e18e9e69b/">video</a>)<br>
+					[AI-edX] HMM Filtering(<a href= "http://ai.berkeley.edu/slides/Lecture%2015%20--%20Particle%20Filters%20and%20Applications%20of%20HMMs/SP14%20CS188%20Lecture%2015%20--%20Particle%20Filters%20and%20Applications%20of%20HMMs.pptx">slides</a>) (<a href= "https://edge.edx.org/courses/course-v1:BerkeleyX+CS188x-SP16+SP16/courseware/af61c2eec13a48beba442a370c3bd83f/a35c9cc4ae394634b608525e18e9e69b/">video</a>)<br>
 					[Alp10] Chap 15 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap15-v1-0.pdf">slides</a>)<br>
 				</td>
-				<td>
-					
+				<td>	
 				</td>
 			</tr>
 
