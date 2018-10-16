@@ -98,7 +98,8 @@ image:
 					[AI-edX] HMM Filtering(<a href= "http://ai.berkeley.edu/slides/Lecture%2015%20--%20Particle%20Filters%20and%20Applications%20of%20HMMs/SP14%20CS188%20Lecture%2015%20--%20Particle%20Filters%20and%20Applications%20of%20HMMs.pptx">slides</a>) (<a href= "https://edge.edx.org/courses/course-v1:BerkeleyX+CS188x-SP16+SP16/courseware/af61c2eec13a48beba442a370c3bd83f/a35c9cc4ae394634b608525e18e9e69b/">video</a>)<br>
 					[Alp10] Chap 15 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap15-v1-0.pdf">slides</a>)<br>
 				</td>
-				<td>	
+				<td>
+				<a href= "https://github.com/fagonzalezo/is-2018-2/blob/master/assign2.pdf">Assignment 2</a>	
 				</td>
 			</tr>
 
