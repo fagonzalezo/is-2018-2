@@ -28,8 +28,10 @@ image:
 
 4 **Learning**
 
-4.1 Naïve Bayes
+4.1 Reinforcement learning
 
-4.2 Neural Networks and Deep Learning
+4.2 Naïve Bayes
 
-4.3 Reinforcement learning
+4.3 Neural Networks and Deep Learning
+
+

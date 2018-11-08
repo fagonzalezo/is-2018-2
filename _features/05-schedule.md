@@ -102,24 +102,52 @@ image:
 				<a href= "https://github.com/fagonzalezo/is-2018-2/blob/master/assign2.pdf">Assignment 2</a>	
 				</td>
 			</tr>
-
 			<tr>
-				<td></td>
+				<td>Nov 7-14</td>
 				<td>
-					4.1 Naïve Bayes
+					4.1 Reinforcement learning
 				</td>
 				<td>
-					[Russell10] Chap 20 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter20a.pdf">slides</a>) <br>
-					[AI-edX] ML: Naive Bayes (<a href= "https://s3-us-west-2.amazonaws.com/cs188websitecontent/lectures/sp16-cs188-lecture-20-1PP.pdf">slides</a>) (<a href= "https://edge.edx.org/courses/course-v1:BerkeleyX+CS188x-SP16+SP16/courseware/af61c2eec13a48beba442a370c3bd83f/60207cf8bf114394a5e626dc89c67516/">video</a>)<br>
+					[Russell10] Chap 17<br>
+					[AI-edX] Markov Decision Processes (<a href= "http://ai.berkeley.edu/slides/Lecture%208%20--%20MDPs%20I/SP14%20CS188%20Lecture%208%20--%20MDPs%20I.pptx">slides</a>) (<a href= "https://edge.edx.org/courses/course-v1:BerkeleyX+CS188x-SP16+SP16/courseware/a2dc8e2add91416a8f2a64410b3bf8e0/99f9c610429f40e1882dd2bfa7deb957/">video</a>)<br>
+					[AI-edX] Markov Decision Processes II(<a href= "http://ai.berkeley.edu/slides/Lecture%209%20--%20MDPs%20II/SP14%20CS188%20Lecture%209%20--%20MDPs%20II.pptx">slides</a>) (<a href= "https://edge.edx.org/courses/course-v1:BerkeleyX+CS188x-SP16+SP16/courseware/a2dc8e2add91416a8f2a64410b3bf8e0/0c7a5f8e1ceb43b5ae45544511eb11dc/">video</a>)<br>
+					[aima-python] Markov Decision Processes (<a href= "https://github.com/aimacode/aima-python/blob/master/mdp.ipynb">notebook</a>) (<a href= "https://github.com/aimacode/aima-python/blob/master/mdp.py">code</a>)<br>
 				</td>
 				<td>
 				</td>
 			</tr>
-
 			<tr>
-				<td></td>
+				<td>Nov 21</td>
 				<td>
-					4.2 Neural Networks and Deep Learning
+					4.1 Reinforcement learning
+				</td>
+				<td>
+					[Russell10] Chap 21<br>
+					[AI-edX] Reinforcement Learning (<a href= "http://ai.berkeley.edu/slides/Lecture%2010%20--%20Reinforcement%20Learning%20I/SP14%20CS188%20Lecture%2010%20--%20Reinforcement%20Learning%20I.pptx">slides</a>) (<a href= "https://edge.edx.org/courses/course-v1:BerkeleyX+CS188x-SP16+SP16/courseware/a2dc8e2add91416a8f2a64410b3bf8e0/aa2fe795e9594a96a18b7cf9a3cbcd21/">video</a>)<br>
+					[AI-edX] Reinforcement Learning II(<a href= "http://ai.berkeley.edu/slides/Lecture%2011%20--%20Reinforcement%20Learning%20II/SP14%20CS188%20Lecture%2011%20--%20Reinforcement%20Learning%20II.pptx">slides</a>) (<a href= "https://edge.edx.org/courses/course-v1:BerkeleyX+CS188x-SP16+SP16/courseware/a2dc8e2add91416a8f2a64410b3bf8e0/bacdd072711c44f991c73bd55b8cdd03/">video</a>)<br>
+					[Alp10] Chap 18 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap18-v1-0.pdf">slides</a>)<br>
+					[Sutton98] (<a href= "https://webdocs.cs.ualberta.ca/~sutton/book/ebook/the-book.html">html</a>) (<a href= "https://www.dropbox.com/s/b3psxv2r0ccmf80/book2015oct.pdf?dl=0">pdf</a>)<br>
+					[aima-python] Reinforcement Learning (<a href= "https://github.com/aimacode/aima-python/blob/master/rl.ipynb">notebook</a>) (<a href= "https://github.com/aimacode/aima-python/blob/master/rl.py">code</a>)<br>
+				</td>
+				<td>
+				</td>
+			</tr>
+			<tr>
+				<td>Nov 28</td>
+				<td>
+					4.2 Naïve Bayes
+				</td>
+				<td>
+					[Russell10] Chap 20 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter20a.pdf">slides</a>) <br>
+					[AI-edX] ML: Naive Bayes (<a href= "http://ai.berkeley.edu/slides/Lecture%2021%20--%20Naive%20Bayes/SP14%20CS188%20Lecture%2021%20--%20Naive%20Bayes.pptx">slides</a>) (<a href= "https://edge.edx.org/courses/course-v1:BerkeleyX+CS188x-SP16+SP16/courseware/af61c2eec13a48beba442a370c3bd83f/60207cf8bf114394a5e626dc89c67516/">video</a>)<br>
+				</td>
+				<td>
+				</td>
+			</tr>
+			<tr>
+				<td>Dec 5</td>
+				<td>
+					4.3 Neural Networks and Deep Learning
 				</td>
 				<td>
 					[Russell10] Chap 18 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter20b.pdf">slides</a>) <br>
@@ -132,39 +160,6 @@ image:
 				<td>
 				</td>
 			</tr>
-
-			<tr>
-				<td></td>
-				<td>
-					4.3 Reinforcement learning
-				</td>
-				<td>
-					[Russell10] Chap 17<br>
-					[AI-edX] Markov Decision Processes (<a href= "https://s3-us-west-2.amazonaws.com/cs188websitecontent/lectures/sp16-cs188-lecture-8-1PP.pdf">slides</a>) (<a href= "https://edge.edx.org/courses/course-v1:BerkeleyX+CS188x-SP16+SP16/courseware/a2dc8e2add91416a8f2a64410b3bf8e0/99f9c610429f40e1882dd2bfa7deb957/">video</a>)<br>
-					[AI-edX] Markov Decision Processes II(<a href= "https://s3-us-west-2.amazonaws.com/cs188websitecontent/lectures/sp16-cs188-lecture-9-1PP.pdf">slides</a>) (<a href= "https://edge.edx.org/courses/course-v1:BerkeleyX+CS188x-SP16+SP16/courseware/a2dc8e2add91416a8f2a64410b3bf8e0/0c7a5f8e1ceb43b5ae45544511eb11dc/">video</a>)<br>
-					[aima-python] Markov Decision Processes (<a href= "https://github.com/aimacode/aima-python/blob/master/mdp.ipynb">notebook</a>) (<a href= "https://github.com/aimacode/aima-python/blob/master/mdp.py">code</a>)<br>
-				</td>
-				<td>
-				</td>
-			</tr>
-
-			<tr>
-				<td></td>
-				<td>
-					4.3 Reinforcement learning
-				</td>
-				<td>
-					[Russell10] Chap 21<br>
-					[AI-edX] Reinforcement Learning (<a href= "https://s3-us-west-2.amazonaws.com/cs188websitecontent/lectures/sp16-cs188-lecture-10-1PP.pdf">slides</a>) (<a href= "https://edge.edx.org/courses/course-v1:BerkeleyX+CS188x-SP16+SP16/courseware/a2dc8e2add91416a8f2a64410b3bf8e0/aa2fe795e9594a96a18b7cf9a3cbcd21/">video</a>)<br>
-					[AI-edX] Reinforcement Learning II(<a href= "https://s3-us-west-2.amazonaws.com/cs188websitecontent/lectures/sp16-cs188-lecture-11-1PP.pdf">slides</a>) (<a href= "https://edge.edx.org/courses/course-v1:BerkeleyX+CS188x-SP16+SP16/courseware/a2dc8e2add91416a8f2a64410b3bf8e0/bacdd072711c44f991c73bd55b8cdd03/">video</a>)<br>
-					[Alp10] Chap 18 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap18-v1-0.pdf">slides</a>)<br>
-					[Sutton98] (<a href= "https://webdocs.cs.ualberta.ca/~sutton/book/ebook/the-book.html">html</a>) (<a href= "https://www.dropbox.com/s/b3psxv2r0ccmf80/book2015oct.pdf?dl=0">pdf</a>)<br>
-					[aima-python] Reinforcement Learning (<a href= "https://github.com/aimacode/aima-python/blob/master/rl.ipynb">notebook</a>) (<a href= "https://github.com/aimacode/aima-python/blob/master/rl.py">code</a>)<br>
-				</td>
-				<td>
-				</td>
-			</tr>
-
 		</small>
 	</tbody>
 </table>
