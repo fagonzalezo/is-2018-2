@@ -108,8 +108,8 @@ image:
 					4.1 Reinforcement learning
 				</td>
 				<td>
-					<a href= "https://www.youtube.com/watch?v=Xk-QCqFtMM4">Video class Nov 9</a>
-					<a href= "https://www.youtube.com/watch?v=OWWWzM6GjIc">Video class Nov 14</a>
+					<a href= "https://www.youtube.com/watch?v=Xk-QCqFtMM4">Video class Nov 9</a><br>
+					<a href= "https://www.youtube.com/watch?v=OWWWzM6GjIc">Video class Nov 14</a><br>`
 					[Russell10] Chap 17<br>
 					[AI-edX] Markov Decision Processes (<a href= "http://ai.berkeley.edu/slides/Lecture%208%20--%20MDPs%20I/SP14%20CS188%20Lecture%208%20--%20MDPs%20I.pptx">slides</a>) (<a href= "https://edge.edx.org/courses/course-v1:BerkeleyX+CS188x-SP16+SP16/courseware/a2dc8e2add91416a8f2a64410b3bf8e0/99f9c610429f40e1882dd2bfa7deb957/">video</a>)<br>
 					[AI-edX] Markov Decision Processes II(<a href= "http://ai.berkeley.edu/slides/Lecture%209%20--%20MDPs%20II/SP14%20CS188%20Lecture%209%20--%20MDPs%20II.pptx">slides</a>) (<a href= "https://edge.edx.org/courses/course-v1:BerkeleyX+CS188x-SP16+SP16/courseware/a2dc8e2add91416a8f2a64410b3bf8e0/0c7a5f8e1ceb43b5ae45544511eb11dc/">video</a>)<br>
@@ -119,11 +119,13 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td>Nov 21</td>
+				<td>Nov 14-21</td>
 				<td>
 					4.1 Reinforcement learning
 				</td>
 				<td>
+					<a href= "https://www.youtube.com/watch?v=5WEnNHAeCuM">Video class Nov 16</a><br>
+					<a href= "https://www.youtube.com/watch?v=UJ_RRYmmo1A">Video class Nov 21</a><br>
 					[Russell10] Chap 21<br>
 					[AI-edX] Reinforcement Learning (<a href= "http://ai.berkeley.edu/slides/Lecture%2010%20--%20Reinforcement%20Learning%20I/SP14%20CS188%20Lecture%2010%20--%20Reinforcement%20Learning%20I.pptx">slides</a>) (<a href= "https://edge.edx.org/courses/course-v1:BerkeleyX+CS188x-SP16+SP16/courseware/a2dc8e2add91416a8f2a64410b3bf8e0/aa2fe795e9594a96a18b7cf9a3cbcd21/">video</a>)<br>
 					[AI-edX] Reinforcement Learning II(<a href= "http://ai.berkeley.edu/slides/Lecture%2011%20--%20Reinforcement%20Learning%20II/SP14%20CS188%20Lecture%2011%20--%20Reinforcement%20Learning%20II.pptx">slides</a>) (<a href= "https://edge.edx.org/courses/course-v1:BerkeleyX+CS188x-SP16+SP16/courseware/a2dc8e2add91416a8f2a64410b3bf8e0/bacdd072711c44f991c73bd55b8cdd03/">video</a>)<br>
