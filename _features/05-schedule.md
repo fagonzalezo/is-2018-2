@@ -109,7 +109,7 @@ image:
 				</td>
 				<td>
 					<a href= "https://www.youtube.com/watch?v=Xk-QCqFtMM4">Video class Nov 9</a><br>
-					<a href= "https://www.youtube.com/watch?v=OWWWzM6GjIc">Video class Nov 14</a><br>`
+					<a href= "https://www.youtube.com/watch?v=OWWWzM6GjIc">Video class Nov 14</a><br>
 					[Russell10] Chap 17<br>
 					[AI-edX] Markov Decision Processes (<a href= "http://ai.berkeley.edu/slides/Lecture%208%20--%20MDPs%20I/SP14%20CS188%20Lecture%208%20--%20MDPs%20I.pptx">slides</a>) (<a href= "https://edge.edx.org/courses/course-v1:BerkeleyX+CS188x-SP16+SP16/courseware/a2dc8e2add91416a8f2a64410b3bf8e0/99f9c610429f40e1882dd2bfa7deb957/">video</a>)<br>
 					[AI-edX] Markov Decision Processes II(<a href= "http://ai.berkeley.edu/slides/Lecture%209%20--%20MDPs%20II/SP14%20CS188%20Lecture%209%20--%20MDPs%20II.pptx">slides</a>) (<a href= "https://edge.edx.org/courses/course-v1:BerkeleyX+CS188x-SP16+SP16/courseware/a2dc8e2add91416a8f2a64410b3bf8e0/0c7a5f8e1ceb43b5ae45544511eb11dc/">video</a>)<br>
