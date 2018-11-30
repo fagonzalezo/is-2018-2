@@ -142,6 +142,7 @@ image:
 					4.2 Naïve Bayes
 				</td>
 				<td>
+					<a href= "https://www.youtube.com/watch?v=3vOfYRE25wA">Video class Nov 30</a><br>
 					[Russell10] Chap 20 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter20a.pdf">slides</a>) <br>
 					[AI-edX] ML: Naive Bayes (<a href= "http://ai.berkeley.edu/slides/Lecture%2021%20--%20Naive%20Bayes/SP14%20CS188%20Lecture%2021%20--%20Naive%20Bayes.pptx">slides</a>) (<a href= "https://edge.edx.org/courses/course-v1:BerkeleyX+CS188x-SP16+SP16/courseware/af61c2eec13a48beba442a370c3bd83f/60207cf8bf114394a5e626dc89c67516/">video</a>)<br>
 				</td>
