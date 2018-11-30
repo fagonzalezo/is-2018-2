@@ -10,4 +10,4 @@ image:
 * Exams 30%
 * Final project 20%
 
-[Grades](https://docs.google.com/a/unal.edu.co/spreadsheets/d/11T-cnlUNNT9bw69lHMDsTy6X_KSxQD4XixT4HHlnYTU/edit?usp=sharing)
+[Grades](https://docs.google.com/spreadsheets/d/1NG4q6--nD55G8pMGA_vI4_FC6asFK5tVif-x73NIuag/edit?usp=sharing) (to access, you need to be authenticated with your UNAL credentials)

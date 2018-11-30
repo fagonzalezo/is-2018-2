@@ -146,22 +146,7 @@ image:
 					[AI-edX] ML: Naive Bayes (<a href= "http://ai.berkeley.edu/slides/Lecture%2021%20--%20Naive%20Bayes/SP14%20CS188%20Lecture%2021%20--%20Naive%20Bayes.pptx">slides</a>) (<a href= "https://edge.edx.org/courses/course-v1:BerkeleyX+CS188x-SP16+SP16/courseware/af61c2eec13a48beba442a370c3bd83f/60207cf8bf114394a5e626dc89c67516/">video</a>)<br>
 				</td>
 				<td>
-				</td>
-			</tr>
-			<tr>
-				<td>Dec 5</td>
-				<td>
-					4.3 Neural Networks and Deep Learning
-				</td>
-				<td>
-					[Russell10] Chap 18 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter20b.pdf">slides</a>) <br>
-					[AI-edX] ML: Perceptrons (<a href= "https://s3-us-west-2.amazonaws.com/cs188websitecontent/lectures/sp16-cs188-lecture-21-1PP.pdf">slides</a>) (<a href= "https://edge.edx.org/courses/course-v1:BerkeleyX+CS188x-SP16+SP16/courseware/9fa61ebf2e90449cbabb0f649b0469d5/33feddef5e834c8088266ec25d0dfa41/">video</a>)<br>
-					[Alp10] Chap 11 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap11-v1-0.pdf">slides</a>)<br>
-					Quick and dirty introduction to neural networks<br>
-					(<a href= "https://gist.github.com/fagonzalezo/c1f56629890dcf5670aa">IPython notebook</a>)<br>
-					<a href= "https://fagonzalezo.github.io/dl_tutorial_upv/">Representation Learning and Deep Learning Tutorial</a> 
-				</td>
-				<td>
+					<a href= "https://github.com/fagonzalezo/is-2018-2/blob/master/assign3.ipynb">Assignment 3</a>	
 				</td>
 			</tr>
 		</small>
