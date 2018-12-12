@@ -132,6 +132,7 @@ image:
 					[Alp10] Chap 18 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap18-v1-0.pdf">slides</a>)<br>
 					[Sutton98] (<a href= "https://webdocs.cs.ualberta.ca/~sutton/book/ebook/the-book.html">html</a>) (<a href= "https://www.dropbox.com/s/b3psxv2r0ccmf80/book2015oct.pdf?dl=0">pdf</a>)<br>
 					[aima-python] Reinforcement Learning (<a href= "https://github.com/aimacode/aima-python/blob/master/rl.ipynb">notebook</a>) (<a href= "https://github.com/aimacode/aima-python/blob/master/rl.py">code</a>)<br>
+					<a href= "https://mpatacchiola.github.io/blog/2016/12/09/dissecting-reinforcement-learning.html">Dissecting Reinforcement Learning</a><br>
 				</td>
 				<td>
 				</td>
