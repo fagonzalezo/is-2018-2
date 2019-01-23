@@ -151,6 +151,19 @@ image:
 					<a href= "https://github.com/fagonzalezo/is-2018-2/blob/master/assign3.ipynb">Assignment 3</a>	
 				</td>
 			</tr>
+			<tr>
+				<td></td>
+				<td>
+				</td>
+				<td>
+				</td>
+				<td>
+				Quiz 4 (Feb 1st)<br>
+				Exam (Feb 8th))<br>
+				Final Project (Feb 13th))<br>
+				</td>
+			</tr>
+
 		</small>
 	</tbody>
 </table>
